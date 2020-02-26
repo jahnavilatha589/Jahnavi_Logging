@@ -1,0 +1,112 @@
+2020 -02-26 20:41:15  DEBUG com.epam.cleanCode.CalculateInterest:18 -This is DEBUG STATEMENT
+2020 -02-26 20:41:15  INFO  com.epam.cleanCode.CalculateInterest:19 -This is INFO STATEMENT
+2020 -02-26 20:41:15  WARN  com.epam.cleanCode.CalculateInterest:20 -This is WARN STATEMENT
+2020 -02-26 20:41:15  ERROR com.epam.cleanCode.CalculateInterest:21 -This is ERROR STATEMENT
+2020 -02-26 20:41:15  FATAL com.epam.cleanCode.CalculateInterest:22 -This is FATAL STATEMENT
+2020 -02-26 20:41:15  INFO  com.epam.cleanCode.CalculateInterest:25 -Choose either option 1 or 2 :
+
+2020 -02-26 20:41:15  INFO  com.epam.cleanCode.CalculateInterest:26 -1.Simple Interest
+
+2020 -02-26 20:41:15  INFO  com.epam.cleanCode.CalculateInterest:27 -2.Compound Interest
+
+2020 -02-26 20:59:51  DEBUG com.epam.cleanCode.CalculateInterest:18 -This is DEBUG STATEMENT
+2020 -02-26 20:59:51  INFO  com.epam.cleanCode.CalculateInterest:19 -This is INFO STATEMENT
+2020 -02-26 20:59:51  WARN  com.epam.cleanCode.CalculateInterest:20 -This is WARN STATEMENT
+2020 -02-26 20:59:51  ERROR com.epam.cleanCode.CalculateInterest:21 -This is ERROR STATEMENT
+2020 -02-26 20:59:51  FATAL com.epam.cleanCode.CalculateInterest:22 -This is FATAL STATEMENT
+2020 -02-26 20:59:51  INFO  com.epam.cleanCode.CalculateInterest:25 -Choose either option 1 or 2 :
+
+2020 -02-26 20:59:51  INFO  com.epam.cleanCode.CalculateInterest:26 -1.Simple Interest
+
+2020 -02-26 20:59:51  INFO  com.epam.cleanCode.CalculateInterest:27 -2.Compound Interest
+
+2020 -02-26 20:59:52  DEBUG com.epam.cleanCode.CalculateInterest:18 -This is DEBUG STATEMENT
+2020 -02-26 20:59:52  INFO  com.epam.cleanCode.CalculateInterest:19 -This is INFO STATEMENT
+2020 -02-26 20:59:52  WARN  com.epam.cleanCode.CalculateInterest:20 -This is WARN STATEMENT
+2020 -02-26 20:59:52  ERROR com.epam.cleanCode.CalculateInterest:21 -This is ERROR STATEMENT
+2020 -02-26 20:59:52  FATAL com.epam.cleanCode.CalculateInterest:22 -This is FATAL STATEMENT
+2020 -02-26 20:59:52  INFO  com.epam.cleanCode.CalculateInterest:25 -Choose either option 1 or 2 :
+
+2020 -02-26 20:59:52  INFO  com.epam.cleanCode.CalculateInterest:26 -1.Simple Interest
+
+2020 -02-26 20:59:52  INFO  com.epam.cleanCode.CalculateInterest:27 -2.Compound Interest
+
+2020 -02-26 20:59:55  INFO  com.epam.cleanCode.SimpleInterest:18 -Enter Principle Amount : 
+2020 -02-26 20:59:57  INFO  com.epam.cleanCode.SimpleInterest:21 -Enter Rate : 
+2020 -02-26 20:59:57  INFO  com.epam.cleanCode.SimpleInterest:24 -Enter Time Period : 
+2020 -02-26 20:59:58  INFO  com.epam.cleanCode.SimpleInterest:33 -Total Amount : 0.24
+2020 -02-26 21:01:06  DEBUG com.epam.cleanCode.CalculateInterest:18 -This is DEBUG STATEMENT
+2020 -02-26 21:01:06  INFO  com.epam.cleanCode.CalculateInterest:19 -This is INFO STATEMENT
+2020 -02-26 21:01:06  WARN  com.epam.cleanCode.CalculateInterest:20 -This is WARN STATEMENT
+2020 -02-26 21:01:06  ERROR com.epam.cleanCode.CalculateInterest:21 -This is ERROR STATEMENT
+2020 -02-26 21:01:06  FATAL com.epam.cleanCode.CalculateInterest:22 -This is FATAL STATEMENT
+2020 -02-26 21:01:06  INFO  com.epam.cleanCode.CalculateInterest:25 -Choose either option 1 or 2 :
+
+2020 -02-26 21:01:06  INFO  com.epam.cleanCode.CalculateInterest:26 -1.Simple Interest
+
+2020 -02-26 21:01:06  INFO  com.epam.cleanCode.CalculateInterest:27 -2.Compound Interest
+
+2020 -02-26 21:01:09  INFO  com.epam.cleanCode.SimpleInterest:18 -Enter Principle Amount : 
+2020 -02-26 21:01:09  INFO  com.epam.cleanCode.SimpleInterest:21 -Enter Rate : 
+2020 -02-26 21:01:10  INFO  com.epam.cleanCode.SimpleInterest:24 -Enter Time Period : 
+2020 -02-26 21:01:10  INFO  com.epam.cleanCode.SimpleInterest:33 -Total Amount : 0.24
+2020 -02-26 21:01:17  DEBUG com.epam.cleanCode.CalculateInterest:18 -This is DEBUG STATEMENT
+2020 -02-26 21:01:17  INFO  com.epam.cleanCode.CalculateInterest:19 -This is INFO STATEMENT
+2020 -02-26 21:01:17  WARN  com.epam.cleanCode.CalculateInterest:20 -This is WARN STATEMENT
+2020 -02-26 21:01:17  ERROR com.epam.cleanCode.CalculateInterest:21 -This is ERROR STATEMENT
+2020 -02-26 21:01:17  FATAL com.epam.cleanCode.CalculateInterest:22 -This is FATAL STATEMENT
+2020 -02-26 21:01:17  INFO  com.epam.cleanCode.CalculateInterest:25 -Choose either option 1 or 2 :
+
+2020 -02-26 21:01:17  INFO  com.epam.cleanCode.CalculateInterest:26 -1.Simple Interest
+
+2020 -02-26 21:01:17  INFO  com.epam.cleanCode.CalculateInterest:27 -2.Compound Interest
+
+2020 -02-26 21:01:19  INFO  com.epam.cleanCode.CompoundInterest:15 -Enter Principle Amount : 
+2020 -02-26 21:01:19  INFO  com.epam.cleanCode.CompoundInterest:18 -Enter Rate : 
+2020 -02-26 21:01:20  INFO  com.epam.cleanCode.CompoundInterest:21 -Enter Time Period : 
+2020 -02-26 21:01:20  INFO  com.epam.cleanCode.CompoundInterest:32 -Total Amount : 3.1212
+2020 -02-26 21:04:34  DEBUG com.epam.cleanCode.CalculateInterest:18 -This is DEBUG STATEMENT
+2020 -02-26 21:04:34  INFO  com.epam.cleanCode.CalculateInterest:19 -This is INFO STATEMENT
+2020 -02-26 21:04:34  WARN  com.epam.cleanCode.CalculateInterest:20 -This is WARN STATEMENT
+2020 -02-26 21:04:34  ERROR com.epam.cleanCode.CalculateInterest:21 -This is ERROR STATEMENT
+2020 -02-26 21:04:34  FATAL com.epam.cleanCode.CalculateInterest:22 -This is FATAL STATEMENT
+2020 -02-26 21:04:34  INFO  com.epam.cleanCode.CalculateInterest:24 -Choose either option 1 or 2 :
+
+2020 -02-26 21:04:34  INFO  com.epam.cleanCode.CalculateInterest:25 -1.Simple Interest
+
+2020 -02-26 21:04:34  INFO  com.epam.cleanCode.CalculateInterest:26 -2.Compound Interest
+
+2020 -02-26 21:04:42  INFO  com.epam.cleanCode.SimpleInterest:18 -Enter Principle Amount : 
+2020 -02-26 21:04:43  INFO  com.epam.cleanCode.SimpleInterest:21 -Enter Rate : 
+2020 -02-26 21:04:43  INFO  com.epam.cleanCode.SimpleInterest:24 -Enter Time Period : 
+2020 -02-26 21:04:43  INFO  com.epam.cleanCode.SimpleInterest:33 -Total Amount : 0.01
+2020 -02-26 21:06:14  DEBUG com.epam.cleanCode.CalculateInterest:18 -This is DEBUG STATEMENT
+2020 -02-26 21:06:14  INFO  com.epam.cleanCode.CalculateInterest:19 -This is INFO STATEMENT
+2020 -02-26 21:06:14  WARN  com.epam.cleanCode.CalculateInterest:20 -This is WARN STATEMENT
+2020 -02-26 21:06:14  ERROR com.epam.cleanCode.CalculateInterest:21 -This is ERROR STATEMENT
+2020 -02-26 21:06:14  FATAL com.epam.cleanCode.CalculateInterest:22 -This is FATAL STATEMENT
+2020 -02-26 21:06:14  INFO  com.epam.cleanCode.CalculateInterest:24 -Choose either option 1 or 2 :
+
+2020 -02-26 21:06:14  INFO  com.epam.cleanCode.CalculateInterest:25 -1.Simple Interest
+
+2020 -02-26 21:06:14  INFO  com.epam.cleanCode.CalculateInterest:26 -2.Compound Interest
+
+2020 -02-26 21:06:18  INFO  com.epam.cleanCode.SimpleInterest:17 -Enter Principle Amount : 
+2020 -02-26 21:06:19  INFO  com.epam.cleanCode.SimpleInterest:19 -Enter Rate : 
+2020 -02-26 21:06:19  INFO  com.epam.cleanCode.SimpleInterest:21 -Enter Time Period : 
+2020 -02-26 21:06:19  INFO  com.epam.cleanCode.SimpleInterest:28 -Total Amount : 2.04
+2020 -02-26 21:06:26  DEBUG com.epam.cleanCode.CalculateInterest:18 -This is DEBUG STATEMENT
+2020 -02-26 21:06:26  INFO  com.epam.cleanCode.CalculateInterest:19 -This is INFO STATEMENT
+2020 -02-26 21:06:26  WARN  com.epam.cleanCode.CalculateInterest:20 -This is WARN STATEMENT
+2020 -02-26 21:06:26  ERROR com.epam.cleanCode.CalculateInterest:21 -This is ERROR STATEMENT
+2020 -02-26 21:06:26  FATAL com.epam.cleanCode.CalculateInterest:22 -This is FATAL STATEMENT
+2020 -02-26 21:06:26  INFO  com.epam.cleanCode.CalculateInterest:24 -Choose either option 1 or 2 :
+
+2020 -02-26 21:06:26  INFO  com.epam.cleanCode.CalculateInterest:25 -1.Simple Interest
+
+2020 -02-26 21:06:26  INFO  com.epam.cleanCode.CalculateInterest:26 -2.Compound Interest
+
+2020 -02-26 21:06:27  INFO  com.epam.cleanCode.CompoundInterest:14 -Enter Principle Amount : 
+2020 -02-26 21:06:28  INFO  com.epam.cleanCode.CompoundInterest:16 -Enter Rate : 
+2020 -02-26 21:06:28  INFO  com.epam.cleanCode.CompoundInterest:18 -Enter Time Period : 
+2020 -02-26 21:06:28  INFO  com.epam.cleanCode.CompoundInterest:25 -Total Amount : 1.1255088
