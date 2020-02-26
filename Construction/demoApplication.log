@@ -1,0 +1,59 @@
+2020 -02-26 21:01:30  INFO  com.epam.Construction.HouseConstruction:20 -Choose Materials to Construct a House : 
+
+2020 -02-26 21:01:30  INFO  com.epam.Construction.HouseConstruction:21 -1.1200/- for Standard Materials
+
+2020 -02-26 21:01:30  INFO  com.epam.Construction.HouseConstruction:22 -2.1500/- for Above Standard Materials
+
+2020 -02-26 21:01:30  INFO  com.epam.Construction.HouseConstruction:23 -3.1800/- for High Standard Materials
+
+2020 -02-26 21:01:30  INFO  com.epam.Construction.HouseConstruction:24 -4.2500/- for High Standard and Fully Automated
+
+2020 -02-26 21:01:39  INFO  com.epam.Construction.HouseConstruction:20 -Choose Materials to Construct a House : 
+
+2020 -02-26 21:01:39  INFO  com.epam.Construction.HouseConstruction:21 -1.1200/- for Standard Materials
+
+2020 -02-26 21:01:39  INFO  com.epam.Construction.HouseConstruction:22 -2.1500/- for Above Standard Materials
+
+2020 -02-26 21:01:39  INFO  com.epam.Construction.HouseConstruction:23 -3.1800/- for High Standard Materials
+
+2020 -02-26 21:01:39  INFO  com.epam.Construction.HouseConstruction:24 -4.2500/- for High Standard and Fully Automated
+
+2020 -02-26 21:01:44  INFO  com.epam.Construction.HouseConstruction:28 -Enter Area for Construction : 
+2020 -02-26 21:01:45  INFO  com.epam.Construction.HouseConstruction:31 -Cost for Construction is : 2400.0
+
+2020 -02-26 21:04:24  INFO  com.epam.Construction.HouseConstruction:19 -Choose Materials to Construct a House : 
+
+2020 -02-26 21:04:24  INFO  com.epam.Construction.HouseConstruction:20 -1.1200/- for Standard Materials
+
+2020 -02-26 21:04:24  INFO  com.epam.Construction.HouseConstruction:21 -2.1500/- for Above Standard Materials
+
+2020 -02-26 21:04:24  INFO  com.epam.Construction.HouseConstruction:22 -3.1800/- for High Standard Materials
+
+2020 -02-26 21:04:24  INFO  com.epam.Construction.HouseConstruction:23 -4.2500/- for High Standard and Fully Automated
+
+2020 -02-26 21:04:27  INFO  com.epam.Construction.HouseConstruction:26 -Enter Area for Construction : 
+2020 -02-26 21:04:27  INFO  com.epam.Construction.HouseConstruction:28 -Cost for Construction is : 2400.0
+
+2020 -02-26 21:06:33  INFO  com.epam.Construction.HouseConstruction:19 -Choose Materials to Construct a House : 
+
+2020 -02-26 21:06:33  INFO  com.epam.Construction.HouseConstruction:20 -1.1200/- for Standard Materials
+
+2020 -02-26 21:06:33  INFO  com.epam.Construction.HouseConstruction:21 -2.1500/- for Above Standard Materials
+
+2020 -02-26 21:06:33  INFO  com.epam.Construction.HouseConstruction:22 -3.1800/- for High Standard Materials
+
+2020 -02-26 21:06:33  INFO  com.epam.Construction.HouseConstruction:23 -4.2500/- for High Standard and Fully Automated
+
+2020 -02-26 21:06:41  INFO  com.epam.Construction.HouseConstruction:19 -Choose Materials to Construct a House : 
+
+2020 -02-26 21:06:41  INFO  com.epam.Construction.HouseConstruction:20 -1.1200/- for Standard Materials
+
+2020 -02-26 21:06:41  INFO  com.epam.Construction.HouseConstruction:21 -2.1500/- for Above Standard Materials
+
+2020 -02-26 21:06:41  INFO  com.epam.Construction.HouseConstruction:22 -3.1800/- for High Standard Materials
+
+2020 -02-26 21:06:41  INFO  com.epam.Construction.HouseConstruction:23 -4.2500/- for High Standard and Fully Automated
+
+2020 -02-26 21:06:45  INFO  com.epam.Construction.HouseConstruction:26 -Enter Area for Construction : 
+2020 -02-26 21:06:47  INFO  com.epam.Construction.HouseConstruction:28 -Cost for Construction is : 3000.0
+
